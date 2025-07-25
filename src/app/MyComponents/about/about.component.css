@@ -1,0 +1,11 @@
+/* Custom styling for the about page */
+.jumbotron-custom {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 0.3rem;
+}
+
+.feature-icon {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
